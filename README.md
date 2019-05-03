@@ -53,6 +53,7 @@ nltk-story-generation-service/app.yaml
 	* In /functions/index.js, update variables PROJECT_NAME, STORAGE_NAME and LABELS_DATABASE_NAME 
 	* Use node version 8
 	```sh
+	nvm install node 8
 	nvm use 8
 	```
 	* Install firebase-tools globally
